@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Holiday\Holiday\bin\Debug\Holiday.exe.config
+C:\Users\User\source\repos\Holiday\Holiday\bin\Debug\Holiday.exe
+C:\Users\User\source\repos\Holiday\Holiday\bin\Debug\Holiday.pdb
+C:\Users\User\source\repos\Holiday\Holiday\obj\Debug\Holiday.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Holiday\Holiday\obj\Debug\Holiday.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Holiday\Holiday\obj\Debug\Holiday.Properties.Resources.resources
+C:\Users\User\source\repos\Holiday\Holiday\obj\Debug\Holiday.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Holiday\Holiday\obj\Debug\Holiday.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Holiday\Holiday\obj\Debug\Holiday.exe
+C:\Users\User\source\repos\Holiday\Holiday\obj\Debug\Holiday.pdb
+C:\Users\User\source\repos\Holiday\Holiday\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Holiday\Holiday\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Holiday\Holiday\obj\Debug\Holiday.csproj.CopyComplete
+C:\Users\User\source\repos\Holiday\Holiday\obj\Debug\Holiday.Form1.resources
